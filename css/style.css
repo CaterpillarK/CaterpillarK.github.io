@@ -1,0 +1,46 @@
+.navbar-inverse {
+    background-color: lime;
+
+}
+.navbar-inverse .navbar-brand {
+    color: #4b42f4;
+    font-family: 'Griffy', cursive;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+body{
+	background-color: orange;
+}
+
+h1{
+	color:green;
+	font-family: 'Concert One', cursive;
+	font-size: 50px;
+}
+
+h2{
+	color:green;
+	font-family: 'Concert One', cursive;
+}
+
+h4{
+	color:green;
+	font-family: 'Concert One', cursive;
+}
+
+.vittext {
+	color:#00FFFF;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.recept {
+	font-size: 20px;
+	font-family: 'Marck Script', cursive;
+	color: #FFC0CB;
+}
+.recepttitel {
+	font-size: 30px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
